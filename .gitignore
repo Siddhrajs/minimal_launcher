@@ -1,0 +1,14 @@
+*.iml
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+build/
+.dart_tool/
+.flutter-plugins-dependencies
+.flutter-plugins
+.packages
+generated/
+*.lock
+*.sw
